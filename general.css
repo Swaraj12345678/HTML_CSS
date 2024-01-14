@@ -1,0 +1,13 @@
+body{
+  padding-bottom: 1000px;
+  margin: 0; /*margin for bady is by default 8px*/
+  padding-top: 80px;
+  padding-left: 96px;
+  padding-right: 24px;
+  background-color: rgb(246, 243, 243);
+}
+p{
+  font-family: Roboto, Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
